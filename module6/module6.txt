@@ -1,0 +1,7 @@
+package module6 // import "."
+
+func FunctionForModule6GoDoc()
+    FunctionForModule6GoDoc is a function for document sample multi line?
+
+    asdlijilajsildjailsdjilqjwdilqjwildjqiwldj qwldijqilwdjilqw
+
